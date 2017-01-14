@@ -1,5 +1,7 @@
 # java_project1
 
-Project for the end of my java class
+Final project for my java class
 
-This project should eventually be a small game like either interplanetary or downwell
+Simple JavaFX project in which a ship avoids hitting the floor while destroying enemies.
+If enemies are allowed to pile up the player loses.
+WASD for movement, SPACE to shoot, and M to mute music.
